@@ -7,7 +7,7 @@
 <li/>Which HTML tags typically generate a request to retrieve a document?
 <li/>What standards organization publishes many of the documents that describe the protocols we use on the Internet?
 </ol>
-<b>Before Looking for the answers i would suggest to re-watch the vedios for this course as the answers are in then :</b><br>
+<b>Before Looking for the answers i would suggest to re-watch the vedios for this course as the answers are in them :</b><br>
 <ol>
 <li/>80
 <li/>GET
