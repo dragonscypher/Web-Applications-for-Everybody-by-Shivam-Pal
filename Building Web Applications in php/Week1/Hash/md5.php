@@ -1,7 +1,7 @@
 <?php
 $md5 = "Not computed";
-if ( isset($_GET['encode']) ) {
-    $md5 = hash('md5', $_GET['encode']);
+if ( isset($_GET['md5']) ) {
+    $md5 = hash('md5', $_GET['md5']);
 }
 ?>
 <!DOCTYPE html>
