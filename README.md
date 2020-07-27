@@ -6,7 +6,7 @@ course link: https://www.coursera.org/learn/web-applications-php
 
 This Repository contains my assignment content and quiz taken going through the Web Applications For Everybody course series on Coursera
 
-It taught me:
+I learnt:
 
 -> Installing your development environment
 
